@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="SQLite -" uuid="a3fcd63d-6c1d-4f82-8cca-2751c1ea90bc">
+    <database-info product="SQLite" version="3.8.9" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native"/>
+    <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed"/>
+    <schema name="" catalog=""/>
+    <table name="Users" schema="" catalog="" type="TABLE">
+      <column name="USERNAME" sqlType="STRING" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+      <column name="PASSWORD" sqlType="STRING" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+    </table>
+  </data-source>
+</component>
